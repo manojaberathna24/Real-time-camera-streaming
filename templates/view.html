@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>📸 Live Photo Feed</title>
+</head>
+<body>
+    <h2>📸 Latest Photo</h2>
+    <img id="live" src="/latest.jpg" width="700">
+
+<script>
+setInterval(() => {
+    document.getElementById("live").src = "/latest.jpg?t=" + new Date().getTime();
+}, 5000); // refresh every 5 sec
+</script>
+
+</body>
+</html>
