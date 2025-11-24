@@ -27,15 +27,19 @@ A simple web-based system that allows a mobile phone camera to stream live image
 
 
 How To Run
+
 git clone https://github.com/manojaberathna24/Real-time-camera-streaming.git
 
 python server.py
+
 ngrok http 5000
 
 
 
 Open these URLs
+
 laptop
+
 https://unrggtened-monodrggggdddgamatic-lyric.ngrgrrok-free.dev
 
 
