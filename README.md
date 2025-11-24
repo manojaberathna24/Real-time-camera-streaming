@@ -39,7 +39,6 @@ ngrok http 5000
 Open these URLs
 
 laptop
-
 https://unrggtened-monodrggggdddgamatic-lyric.ngrgrrok-free.dev
 
 
